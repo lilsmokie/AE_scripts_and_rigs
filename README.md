@@ -11,7 +11,7 @@ Hope something is helpful.
 
 ---
 
-#### [IL_Layover](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/IL_Layover_v0.5)
+#### [AI_Layover](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/AI_Layover_v0.5)
 
 Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrator to AE workflow.
 
@@ -49,6 +49,20 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
   Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
 
 ![Bezier](https://user-images.githubusercontent.com/88659624/129393404-36a6cdff-9a95-4193-9ce0-05045ffb03ed.gif)
+
+
+
+</div>
+<div>
+
+---
+
+#### [lineOffsets_ShapeLayers](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/LevelBezierClones_v006)
+  
+  Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
+
+![shapes](https://user-images.githubusercontent.com/88659624/129400240-a8211ed8-0a60-4e4a-bc50-ad85b76924b1.gif)
+
 
 
 
