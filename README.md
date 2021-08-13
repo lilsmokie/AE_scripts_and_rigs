@@ -57,7 +57,7 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 
 ---
 
-#### [lineOffsets_ShapeLayers](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/LevelBezierClones_v006)
+#### [lineOffsets_ShapeLayers](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/lineOffsets%20_shapelayer)
   
   Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
 
@@ -65,6 +65,17 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 
 
 
+
+</div>
+<div>
+
+---
+
+#### [CompBG_ColorChanger](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
+  
+Just needed a quick way to make several comps have a grey background. 
+Should prolly build a color picker or something 
+  
 
 </div>
 </div>
