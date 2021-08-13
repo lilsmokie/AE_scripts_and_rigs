@@ -18,6 +18,9 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 1. Install these in both AE and Illustrator
 2. Open the programs and enjoy
 3. New material is created with your multishader
+  
+![illDance Example](https://vimeo.com/50225682)
+  
 
 
 </div>
