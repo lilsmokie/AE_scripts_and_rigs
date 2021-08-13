@@ -15,13 +15,11 @@ Hope something is helpful.
 
 Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrator to AE workflow.
 
-1. Install these in both AE and Illustrator
-2. Open the programs and enjoy
-3. New material is created with your multishader
+1. Open AE and Illustrator
+2. Assign each script to a hot key in their respective program
+3. Enjoy
   
-![illDance Example](https://vimeo.com/50225682)
-  
-
+[![illDNCplay](https://user-images.githubusercontent.com/88659624/129334521-12a944a1-072e-4878-894b-dfe0d9c158a6.png)](https://vimeo.com/50225682)
 
 </div>
 <div>
