@@ -11,7 +11,7 @@ Hope something is helpful.
 
 ---
 
-#### [IL_Layover](https://github.com/lilsmokie/AE-scripts/tree/main/IllDance_v0.5)
+#### [IL_Layover](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/IL_Layover_v0.5)
 
 Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrator to AE workflow.
 
