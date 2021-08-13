@@ -45,6 +45,8 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 ---
 
 #### [LevelBezierClones](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/LevelBezierClones_v006)
+  
+  Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
 
 ![Bezier](https://user-images.githubusercontent.com/88659624/129393404-36a6cdff-9a95-4193-9ce0-05045ffb03ed.gif)
 
