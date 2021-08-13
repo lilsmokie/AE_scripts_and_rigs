@@ -21,4 +21,20 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 
 
 </div>
+<div>
+
+---
+
+#### [Object Line Beamer](https://github.com/lilsmokie/AE-scripts/blob/main/ObjectLineBeamer_v004.jsx)
+
+  Select a few nulls and this script will connect them with a Beam effect in a line. 
+  This might be better done with a shape layer now.
+
+1. Select your nulls
+2. Run script
+3. Adjust sliders for thickness, color and softness
+4. The time slider runs a line through all the nulls as if they were one
+
+
+</div>
 </div>
