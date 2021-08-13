@@ -11,7 +11,7 @@ Hope something is helpful.
 
 ---
 
-#### [illDance](https://github.com/lilsmokie/AE-scripts/tree/main/IllDance_v0.5)
+#### [IL_Layover](https://github.com/lilsmokie/AE-scripts/tree/main/IllDance_v0.5)
 
 Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrator to AE workflow.
 
@@ -37,6 +37,19 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 4. The time slider runs a line through all the nulls as if they were one
 
   ![imandra](https://user-images.githubusercontent.com/88659624/129369069-20abb1ff-d6e7-4162-9e6d-25233d8bf16f.gif)
+
+
+</div>
+<div>
+
+---
+
+#### [LevelBezierClones](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/LevelBezierClones_v006)
+  
+  Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
+
+![Bezier](https://user-images.githubusercontent.com/88659624/129393404-36a6cdff-9a95-4193-9ce0-05045ffb03ed.gif)
+
 
 
 </div>
