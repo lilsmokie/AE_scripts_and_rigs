@@ -36,6 +36,8 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 3. Adjust sliders for thickness, color and softness
 4. The time slider runs a line through all the nulls as if they were one
 
+  ![imandra](https://user-images.githubusercontent.com/88659624/129369069-20abb1ff-d6e7-4162-9e6d-25233d8bf16f.gif)
+
 
 </div>
 </div>
