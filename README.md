@@ -87,6 +87,8 @@ Should prolly build a color picker or something
 
 A rig for stacking and "balancing" stacked half circles.
   
+[![platformVideo](https://user-images.githubusercontent.com/88659624/129451162-657cc15d-1ffa-4b91-b447-e2741f29683c.jpg)](https://vimeo.com/587180495/f523294b1d)
+  
 ![platform2](https://user-images.githubusercontent.com/88659624/129448827-44a3f515-2dcd-4019-9809-6540cdff38e1.gif)
 
 Animation: David Hobizal
