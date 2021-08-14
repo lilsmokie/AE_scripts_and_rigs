@@ -85,10 +85,9 @@ Should prolly build a color picker or something
 
 #### [SemiCirclePlatform](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
 
-Just needed a quick way to make several comps have a grey background. 
-Should prolly build a color picker or something 
+A rig for stacking and "balancing" stacked half circles.
   
-![platform](https://user-images.githubusercontent.com/88659624/129448705-55b5d042-0617-4756-89b3-8658978cc790.gif)
+![platform2](https://user-images.githubusercontent.com/88659624/129448827-44a3f515-2dcd-4019-9809-6540cdff38e1.gif)
 
 Animation: David Hobizal
   
