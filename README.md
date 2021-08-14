@@ -37,7 +37,8 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 4. The time slider runs a line through all the nulls as if they were one
 
   ![imandra](https://user-images.githubusercontent.com/88659624/129369069-20abb1ff-d6e7-4162-9e6d-25233d8bf16f.gif)
-
+  
+Animation: David Hobizal
 
 </div>
 <div>
@@ -57,7 +58,7 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 
 ---
 
-#### [lineOffsets_ShapeLayers](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/LevelBezierClones_v006)
+#### [lineOffsets_ShapeLayers](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/lineOffsets%20_shapelayer)
   
   Simple expression that calculates a curve using nulls as the start and stop. Distributes layers based on a slider.
 
@@ -66,5 +67,31 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 
 
 
+</div>
+<div>
+
+---
+
+#### [CompBG_ColorChanger](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
+  
+Just needed a quick way to make several comps have a grey background. 
+Should prolly build a color picker or something 
+  
+
+</div>
+<div>
+
+---
+
+#### [SemiCirclePlatform](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
+
+A rig for stacking and "balancing" stacked half circles.
+  
+[![platformVideo](https://user-images.githubusercontent.com/88659624/129451162-657cc15d-1ffa-4b91-b447-e2741f29683c.jpg)](https://vimeo.com/587180495/f523294b1d)
+  
+![platform2](https://user-images.githubusercontent.com/88659624/129448827-44a3f515-2dcd-4019-9809-6540cdff38e1.gif)
+
+Animation: David Hobizal
+  
 </div>
 </div>
