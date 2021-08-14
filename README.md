@@ -37,6 +37,7 @@ Waay back before Overlord by Battle Axe I was trying to hammer out an Illustrato
 4. The time slider runs a line through all the nulls as if they were one
 
   ![imandra](https://user-images.githubusercontent.com/88659624/129369069-20abb1ff-d6e7-4162-9e6d-25233d8bf16f.gif)
+  
 Animation: David Hobizal
 
 </div>
@@ -77,5 +78,19 @@ Just needed a quick way to make several comps have a grey background.
 Should prolly build a color picker or something 
   
 
+</div>
+<div>
+
+---
+
+#### [SemiCirclePlatform](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
+
+Just needed a quick way to make several comps have a grey background. 
+Should prolly build a color picker or something 
+  
+![platform](https://user-images.githubusercontent.com/88659624/129448705-55b5d042-0617-4756-89b3-8658978cc790.gif)
+
+Animation: David Hobizal
+  
 </div>
 </div>
