@@ -94,4 +94,17 @@ A rig for stacking and "balancing" stacked half circles.
 Animation: David Hobizal
   
 </div>
+<div>
+
+---
+
+#### [WindowPanes](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/WindowPanes_v005)
+
+A rig for grouping and sizing windows with in windows.
+  
+[![WindowPanes_InitialSetup](https://user-images.githubusercontent.com/88659624/129476727-ce2bb487-cc21-44a1-8c3c-1fa31ec86992.jpg)](https://vimeo.com/587422071/f30b7d0058)
+  
+![WindowPanesFullsetup](https://user-images.githubusercontent.com/88659624/129476533-451f1feb-d7cc-4e9a-bbc9-c62447eaf2e5.gif)
+ 
+</div>
 </div>
