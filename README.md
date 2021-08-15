@@ -83,7 +83,7 @@ Should prolly build a color picker or something
 
 ---
 
-#### [SemiCirclePlatform](https://github.com/lilsmokie/AE_scripts_and_rigs/blob/main/COMPbgColorChanger.jsx)
+#### [SemiCirclePlatform](https://github.com/lilsmokie/AE_scripts_and_rigs/tree/main/SemiCirclePlatform)
 
 A rig for stacking and "balancing" stacked half circles.
   
